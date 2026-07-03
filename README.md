@@ -3,4 +3,4 @@ Automated daily digests of top Hacker News / AI / security stories — committed
 
 ## Archive
 
-- [2026-07-03](digests/2026-07-03.md) — 25 stories
+- [2026-07-03](digests/2026-07-03.md) — 30 stories
